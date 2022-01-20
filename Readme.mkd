@@ -1,6 +1,6 @@
 2022-1-19: 因为文字的高亮方面不太好控制，我这里倾向于更多的图形来编程，并且界面有固定的限制，本软件编写的程序倾向于小而美的代码。  
 参考如下的图片  
-![](Syntax_diagram_example.svg)  
+![](./resource/img/Syntax_diagram_example.svg)  
 
    - 条件语句
      - if是这样子的
